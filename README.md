@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jameswaldrop
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning computer programming
+- 👀 I’m interested in software development and UX/UI design.
+- 🌱 I’m currently studying software engineering.
 - 📫 How to reach me jameswaldrop@live.com
 
 <!---
