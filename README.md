@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jameswaldrop
-- 👀 I’m interested in software development and UX/UI design.
+- 👀 I’m interested in software development.
 - 🌱 I’m currently studying software engineering.
 - 📫 How to reach me jameswaldrop@live.com
 
