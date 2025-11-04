@@ -2,7 +2,7 @@
 
 I’m James Waldrop, a software engineering student based in Tucson, AZ, with hands-on experience in Python, Java, JavaScript, SQL, Angular, Spring, PostgreSQL, and AWS Cloud. I combine a background in clinical laboratory operations with growing expertise in software development, cloud technologies, and data engineering.
 
-I’m actively pursuing opportunities in software development, cloud computing, and data engineering, and this site highlights projects demonstrating my technical skills and problem-solving approach.
+I’m actively pursuing opportunities in software development, cloud computing, and data engineering. This site features my academic projects, demonstrating the coding, design, and problem-solving skills I gained during my coursework.
 
 📚 Education & Certifications
 
